@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    max-width: 800px;
+    margin: auto;
+}
+
+.content {
+    width: inherit;
+    height: 75px;
+    background-color: gray;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 5px 0px;
+}
+
+.leftbox {
+    width: 200px;
+    height: 300px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.yourfeedbox {
+text-align: center;
+font-size: 44px;
+padding: 10px 0px;
+}
+
+.rightbox {
+    float: right;
+}
+
+.row1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.row3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box1 {
+    width: 500px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 8px;
+    margin-top: -305px;
+}
+
+.likes1 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.btn1 {
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: yellow;
+    box-shadow: 3px 3px;
+    margin-left: 40px;
+}
+
+.user1 {
+    font-size: 28px;
+}
+
+.randomtext1 {
+    align-items: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.box2 {
+    width: 500px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 8px;
+    margin-top: 10px;
+}
+
+.likes2 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.btn2 {
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: yellow;
+    box-shadow: 3px 3px;
+    margin-left: 40px;
+}
+
+.user2 {
+    font-size: 28px;
+}
+
+.randomtext2 {
+    align-items: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+.box3 {
+    width: 500px;
+    height: 150px;
+    border: 3px solid black;
+    padding: 8px;
+    margin-top: 10px;
+
+}
+
+.likes3 {
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+}
+
+.btn3 {
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    background-color: yellow;
+    box-shadow: 3px 3px;
+    margin-left: 40px;
+}
+
+.user3 {
+    font-size: 28px;
+}
+
+.randomtext3 {
+    align-items: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
